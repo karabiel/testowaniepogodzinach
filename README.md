@@ -15,9 +15,16 @@ Brak polskich znaków w nazwie produktu - "lokówka do włosów" + brak pierwsze
 <br>
 
 #### "Voda"
-<img width="300" alt="bugtłumaczenie" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/7ff6201b-c5e9-4acf-b0ee-8367d54d13d6">
+<img width="340" alt="bugtłumaczenie" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/7ff6201b-c5e9-4acf-b0ee-8367d54d13d6">
 
 Instrukcja w języku polskim z fragmentami w języku czeskim, zauważone dn. 02.02.24 r.
+
+<br>
+
+#### "Chro-nić"
+<img width="250" alt="bugchronić" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/724bfe0d-b2b1-4a42-a5d0-7004ed03a629">
+
+Niepotrzebnie podzielone słowo "chronić", zauważone dn. 15.02.24 r.
 
 <br>
 
@@ -43,6 +50,9 @@ Nadmiarowa litera w słowie "temperaturze", zauważone dn. 19.04.24 r.
 <br>
 
 #### "Deffered"
-<img width="288" alt="bugdeferred" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/a5b161c7-f1b9-469a-b4fc-1bce50f7864c">
+<img width="300" alt="bugdeferred" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/a5b161c7-f1b9-469a-b4fc-1bce50f7864c">
 
 Literówka w słowie "deferred", zauważone dn. 01.05.24 r.
+
+<br>
+

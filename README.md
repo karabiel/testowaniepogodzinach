@@ -85,6 +85,13 @@ Brak litery "u" w słowie "wyszukiwarce", zauważone dn. 18.03.24 r.
 
 <br>
 
+#### "Podukt"
+<img width="130" alt="bugproduktciecierzyca" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/71b9ec7e-691b-4368-8d63-15279aa9c413">
+
+Opis produktu „Ciecierzyca z kurczakiem” z literówką – brak litery „r” w słowie „produkt”, zauważone dn. 05.04.24 r.
+
+<br>
+
 #### "Znieczuelenia"
 <img width="130" alt="bugznieczulenia" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/915ccc5a-7a83-42e7-a52b-688ed183dbe6">
 

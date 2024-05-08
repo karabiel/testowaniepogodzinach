@@ -64,6 +64,13 @@ Niepotrzebnie podzielone słowo "chronić", zauważone dn. 15.02.24 r.
 
 <br>
 
+#### "Wymyśleć"
+<img width="150" alt="bugwymyślić" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/28e40f69-5a1a-4dc8-8da2-247a1b495560">
+
+Niepoprawna pisownia słowa "wymyślić", zauważone dn. 27.02.24 r.
+
+<br>
+
 #### "Wuikanizator"
 <img width="200" alt="bugwulkanizator" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/92effcff-d25a-4495-9f25-cc5e9c3e5e4b">
 
@@ -78,6 +85,13 @@ Litery "e" i "n" zamienione miejscami w słowie "pacjenta", zauważone dn. 04.03
 
 <br>
 
+#### "Ananlizy"
+<img width="130" alt="buganalizy" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/ad4f1c24-c5f6-4504-a37c-afac66c44087">
+
+Nadmiarowa litera "n" w słowie "analizy", zauważone dn. 14.03.24 r.
+
+<br>
+
 #### "Wyszkiwarce"
 <img width="130" alt="bugwyszukiwarce" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/11864745-4878-4225-bcee-ebdceb4aa4e2">
 
@@ -85,10 +99,24 @@ Brak litery "u" w słowie "wyszukiwarce", zauważone dn. 18.03.24 r.
 
 <br>
 
-#### "Podukt"
-<img width="130" alt="bugproduktciecierzyca" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/71b9ec7e-691b-4368-8d63-15279aa9c413">
+#### "Wysok-iej"
+<img width="200" alt="bugwysokiej" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/7436e1c4-bc28-44f6-a986-9f30f53277c6">
+
+Błędny podział słowa "wysokiej", zauważone dn. 25.03.24 r.
+
+<br>
+
+#### "Podukt" nr 1
+<img width="300" alt="bugproduktciecierzyca" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/71b9ec7e-691b-4368-8d63-15279aa9c413">
 
 Opis produktu „Ciecierzyca z kurczakiem” z literówką – brak litery „r” w słowie „produkt”, zauważone dn. 05.04.24 r.
+
+<br>
+
+#### "Podukt" nr 2
+<img width="300" alt="bugproduktkurczak" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/113c448c-6f7a-4931-9a05-8cb316473339">
+
+Opis produktu „Kurczak z warzywami” z literówką – brak litery „r” w słowie „produkt”, zauważone dn. 05.04.24 r.
 
 <br>
 

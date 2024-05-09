@@ -85,10 +85,25 @@ Litery "e" i "n" zamienione miejscami w słowie "pacjenta", zauważone dn. 04.03
 
 <br>
 
-#### "Ananlizy"
-<img width="130" alt="buganalizy" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/ad4f1c24-c5f6-4504-a37c-afac66c44087">
+#### "Ananlizy" v1
+<img width="200" alt="buganalizy" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/ad4f1c24-c5f6-4504-a37c-afac66c44087">
 
 Nadmiarowa litera "n" w słowie "analizy", zauważone dn. 14.03.24 r.
+
+<br>
+
+#### "Ananlizy" v2
+
+<img width="200" alt="buganalizy" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/f4ebfaf1-89d6-4f9a-9c0d-ee30b4053ff8">
+
+Powtórzony błąd w słowie "analizy" na informacji z tego samego źródła co wyżej, zauważone dn. 15.03.24 r.
+
+<br>
+
+#### "Docier-ał" i "pozost-aw"
+<img width="300" alt="bugdocier-ał" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/b13b70c6-175d-4835-915c-173b076e5448">
+
+Błędny podział słów "docierał" i "pozostaw", zauważone dn. 16.03.24 r.
 
 <br>
 

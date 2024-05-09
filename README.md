@@ -145,7 +145,7 @@ Nadmiarowa litera "e" w słowie "znieczulenia", zauważone dn. 08.04.24 r.
 #### "Arytkuł"
 <img width="130" alt="bugartykuł" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/6e7053b1-7300-4d78-a1a3-ac7f97fe8e6e">
 
-Brak litery "y" w słowie "artykuł", zauważone dn. 10.04.24 r.
+Zamienione miejscami litery "t" i "y" w słowie "artykuł", zauważone dn. 10.04.24 r.
 
 <br>
 

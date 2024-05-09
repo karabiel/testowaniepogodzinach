@@ -155,3 +155,9 @@ Literówka w słowie "deferred", zauważone dn. 01.05.24 r.
 
 <br>
 
+#### "Usprawnenia"
+<img width="200" alt="bugusprawnienia" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/a102e8d8-8dd9-4fa3-a621-4f6c8dda333d">
+
+Brak litery "i" w słowie "usprawnienia", zauważone dn. 09.05.24 r.
+
+<br>

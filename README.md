@@ -176,3 +176,10 @@ Literówka w słowie "deferred", zauważone dn. 01.05.24 r.
 Brak litery "i" w słowie "usprawnienia", zauważone dn. 09.05.24 r.
 
 <br>
+
+#### "Wybierz, znasz najlepiej"
+<img width="300" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/ea95d52f-dd3d-4a5f-b74e-a2389063e217">
+
+Brak kilku słów do kompletu - np. "Wybierz ten, który znasz najlepiej", zauważone dn. 09.05.24 r.
+
+<br>

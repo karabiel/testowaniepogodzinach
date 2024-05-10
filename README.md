@@ -183,3 +183,10 @@ Brak litery "i" w słowie "usprawnienia", zauważone dn. 09.05.24 r.
 Brak kilku słów do kompletu - np. "Wybierz ten, który znasz najlepiej", zauważone dn. 09.05.24 r.
 
 <br>
+
+#### "Wystawch"
+<img width="300" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/a95dd02b-f831-4115-b000-02e2ceb64079">
+
+Brak drugiej litery "a" w słowie "wystawach", zauważone dn. 10.05.24 r.
+
+<br>

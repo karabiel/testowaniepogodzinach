@@ -57,6 +57,13 @@ Instrukcja w języku polskim z fragmentami w języku czeskim, zauważone dn. 02.
 
 <br>
 
+#### "Które,"
+<img width="200" alt="bugtłumaczenie" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/aff54762-cb28-484a-bffb-94159fd7bc6d">
+
+Niepotrzebny przecinek po słowie "które", zauważone dn. 05.02.24 r.
+
+<br>
+
 #### "Chro-nić"
 <img width="250" alt="bugchronić" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/724bfe0d-b2b1-4a42-a5d0-7004ed03a629">
 

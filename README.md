@@ -197,3 +197,8 @@ Brak kilku słów do kompletu - np. "Wybierz ten, który znasz najlepiej", zauwa
 Brak drugiej litery "a" w słowie "wystawach", zauważone dn. 10.05.24 r.
 
 <br>
+
+#### "MAX"
+<img width="300" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/a65f2a14-b615-43d7-96c4-78bfcdbdeb4c">
+
+Niewytłuszczone słowo "MAX", zauważone dn. 16.05.24 r.

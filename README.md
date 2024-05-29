@@ -202,3 +202,18 @@ Brak drugiej litery "a" w słowie "wystawach", zauważone dn. 10.05.24 r.
 <img width="300" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/a65f2a14-b615-43d7-96c4-78bfcdbdeb4c">
 
 Niewytłuszczone słowo "MAX", zauważone dn. 16.05.24 r.
+
+<br>
+
+#### "Odcinek bawelna"
+<img width="350" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/4564c2de-61c0-4832-bf75-fcbbacc1d7b7">
+
+Niepoprawnie przetłumaczona nazwa produktu - powinno być np. "rozciągliwa bawełna" - oraz brak polskiego znaku w słowie "bawełna", zauważone dn. 25.05.24 r.
+
+<br>
+
+#### "Hormo content_id: nalnej"
+<img width="350" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/f868c383-3510-4b06-a7c8-3d6134df2476">
+
+Wtrącenie w słowie "hormonalnej", zauważone dn. 28.05.24 r.
+

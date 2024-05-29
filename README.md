@@ -1,7 +1,7 @@
 # Testowanie po godzinach
 
 #### "Negocacji"
-<img width="250" alt="bugnegocjacji" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/f7fd960a-b1d1-4080-bd9a-684cdb641f2a">
+<img width="230" alt="bugnegocjacji" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/f7fd960a-b1d1-4080-bd9a-684cdb641f2a">
 
 Brak jednej litery "j" w słowie "negocjacji", zauważone dn. 15.01.24 r.
 
@@ -24,20 +24,19 @@ Nadmiarowa litera w słowie "zupa", zauważone dn. 18.01.24 r.
 #### "1000 C"
 <img width="100" alt="bugstopnie" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/1951fb8f-15c8-44fe-82ad-c53ead6d81f6">
 
-Nieumiejętne zaznaczone stopnie Celsjusza, za pomocą zera, zauważone dn. 25.01.24 r.
+Stopnie Celsjusza zaznaczone za pomocą zera, zauważone dn. 25.01.24 r.
 
 <br>
 
-
-#### "Najpopularniejsza"
+#### "Najpopularniejsza metodyką"
 <img width="230" alt="bugmetodyka" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/c218140b-57ba-4d83-84e2-de29f878374f">
 
-Brak "ogonka" w pierwszym słowie, zauważone dn. 21.01.24 r.
+Brak "ogonka" w pierwszym słowie (lub nadmiarowy ogonek w drugim słowie), zauważone dn. 21.01.24 r.
 
 <br>
 
 #### "Nalży"
-<img width="200" alt="" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/7b6057d6-03c0-4af8-86d0-6ee6c81a39bb">
+<img width="200" alt="" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/5ab8868d-5276-42a9-9545-7aa7aabce548">
 
 Brak litery "e" w słowie "należy", zauważone dn. 25.01.24 r.
 

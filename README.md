@@ -216,3 +216,17 @@ Niepoprawnie przetłumaczona nazwa produktu - powinno być np. "rozciągliwa baw
 
 Wtrącenie w słowie "hormonalnej", zauważone dn. 28.05.24 r.
 
+<br>
+
+#### "Którtą"
+<img width="350" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/8f61c4c2-2f29-4015-b39b-cd084e52e7fb">
+
+Nadmiarowa litera w słowie "którą", zauważone dn. 17.06.24 r.
+
+<br>
+
+#### "Czss"
+<img width="350" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/ab1d5b35-efc2-45c7-b90f-96d9af362caa">
+
+Literówka w słowie "czas", zauważone dn. 17.06.24 r.
+

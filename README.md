@@ -191,42 +191,48 @@ Brak kilku słów do kompletu - np. "Wybierz ten, który znasz najlepiej", zauwa
 <br>
 
 #### "Wystawch"
-<img width="300" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/a95dd02b-f831-4115-b000-02e2ceb64079">
+<img width="300" alt="bugwystawach" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/a95dd02b-f831-4115-b000-02e2ceb64079">
 
 Brak drugiej litery "a" w słowie "wystawach", zauważone dn. 10.05.24 r.
 
 <br>
 
 #### "MAX"
-<img width="300" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/a65f2a14-b615-43d7-96c4-78bfcdbdeb4c">
+<img width="300" alt="bugnax" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/a65f2a14-b615-43d7-96c4-78bfcdbdeb4c">
 
 Niewytłuszczone słowo "MAX", zauważone dn. 16.05.24 r.
 
 <br>
 
 #### "Odcinek bawelna"
-<img width="350" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/4564c2de-61c0-4832-bf75-fcbbacc1d7b7">
+<img width="350" alt="bugbawelna" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/4564c2de-61c0-4832-bf75-fcbbacc1d7b7">
 
 Niepoprawnie przetłumaczona nazwa produktu - powinno być np. "rozciągliwa bawełna" - oraz brak polskiego znaku w słowie "bawełna", zauważone dn. 25.05.24 r.
 
 <br>
 
 #### "Hormo content_id: nalnej"
-<img width="350" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/f868c383-3510-4b06-a7c8-3d6134df2476">
+<img width="350" alt="bughormonalnej" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/f868c383-3510-4b06-a7c8-3d6134df2476">
 
 Wtrącenie w słowie "hormonalnej", zauważone dn. 28.05.24 r.
 
 <br>
 
 #### "Którtą"
-<img width="350" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/8f61c4c2-2f29-4015-b39b-cd084e52e7fb">
+<img width="350" alt="bugktora" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/8f61c4c2-2f29-4015-b39b-cd084e52e7fb">
 
 Nadmiarowa litera w słowie "którą", zauważone dn. 17.06.24 r.
 
 <br>
 
 #### "Czss"
-<img width="350" alt="bugznasz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/ab1d5b35-efc2-45c7-b90f-96d9af362caa">
+<img width="350" alt="bugczas" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/ab1d5b35-efc2-45c7-b90f-96d9af362caa">
 
 Literówka w słowie "czas", zauważone dn. 17.06.24 r.
 
+<br>
+
+#### "Czzeriwec"
+<img width="150" alt="bugczerwiec" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/137b6ad2-a06a-4f23-90d3-150c041e41bc">
+
+Błędnie zapisane słowo "czerwiec", zauważone dn. 20.06.24 r.

@@ -226,13 +226,20 @@ Nadmiarowa litera w słowie "którą", zauważone dn. 17.06.24 r.
 <br>
 
 #### "Czss"
-<img width="350" alt="bugczas" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/ab1d5b35-efc2-45c7-b90f-96d9af362caa">
+<img width="250" alt="bugczas" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/ab1d5b35-efc2-45c7-b90f-96d9af362caa">
 
 Literówka w słowie "czas", zauważone dn. 17.06.24 r.
 
 <br>
 
 #### "Czzeriwec"
-<img width="150" alt="bugczerwiec" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/137b6ad2-a06a-4f23-90d3-150c041e41bc">
+<img width="120" alt="bugczerwiec" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/137b6ad2-a06a-4f23-90d3-150c041e41bc">
 
 Błędnie zapisane słowo "czerwiec", zauważone dn. 20.06.24 r.
+
+<br>
+
+#### "Mozesz"
+<img width="200" alt="bug" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/621492a6-4c0b-4e3b-82b9-2064adc473ef">
+
+Brak kropki nad literą "ż" w słowie "możesz", zauważone dn. 20.06.24 r.

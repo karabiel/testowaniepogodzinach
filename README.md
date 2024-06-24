@@ -240,6 +240,20 @@ Błędnie zapisane słowo "czerwiec", zauważone dn. 20.06.24 r.
 <br>
 
 #### "Mozesz"
-<img width="200" alt="bug" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/621492a6-4c0b-4e3b-82b9-2064adc473ef">
+<img width="150" alt="bugmozesz" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/621492a6-4c0b-4e3b-82b9-2064adc473ef">
 
 Brak kropki nad literą "ż" w słowie "możesz", zauważone dn. 20.06.24 r.
+
+<br>
+
+#### "Jest"
+<img width="350" alt="bugjest" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/c5d1be26-7a95-40c7-87fe-41b6f476bdda">
+
+Zdublowane słowo "jest", zauważone dn. 23.06.24 r.
+
+<br>
+
+#### ".nna"
+<img width="600" alt="bugna" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/9c1217ae-003d-44c4-a10b-64ccd525b676">
+
+Brak spacji po kropce i nadprogramowa litera "n" w przyimku "na" - w dodatku zapisany małą literą, zauważone dn. 23.06.24 r.

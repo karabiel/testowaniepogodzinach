@@ -257,3 +257,26 @@ Zdublowane słowo "jest", zauważone dn. 23.06.24 r.
 <img width="600" alt="bugna" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/9c1217ae-003d-44c4-a10b-64ccd525b676">
 
 Brak spacji po kropce i nadprogramowa litera "n" w przyimku "na" - w dodatku zapisany małą literą, zauważone dn. 23.06.24 r.
+
+<br>
+
+#### "Ofereto.pl"
+<img width="300" alt="bugoferteo" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/4ca51ae4-a40a-43fa-bb03-974b1b65fc31">
+
+Literówka w nazwie "Oferteo" - zamienione miejscami litery "t" i "e", zauważone dn. 25.06.24 r.
+
+<br>
+
+#### "Krórych"
+<img width="100" alt="bugktorych" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/8af3e6b4-a9f5-40d6-8d2c-948e08d89fb1">
+
+Literówka w słowie "których" - zamiast litery "t" pojawiła się "r", zauważone dn. 29.06.24 r.
+
+<br>
+
+#### "Nieszczęśćiem"
+<img width="125" alt="bugnieszczesciem" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/5b2edb70-e844-40d2-9f9f-aa4fc1625c03">
+
+Nadmiarowa kreseczka nad literą "c" w słowie "nieszczęściem", zauważone dn. 29.06.24 r.
+
+

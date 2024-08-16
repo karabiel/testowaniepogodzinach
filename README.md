@@ -281,9 +281,21 @@ Nadmiarowa kreseczka nad literą "c" w słowie "nieszczęściem", zauważone dn.
 
 <br>
 
+#### "Się"
+<img width="100" alt="bugsie" src="https://github.com/user-attachments/assets/3409e635-3543-46ad-bbac-8ffd62cfecc7">
+
+Nadmiarowy ogonek w zaimku "się", zauważone dn. 08.08.24 r.
+
+<br>
+
 #### "Wa"
 <img width="700" alt="bugwa" src="https://github.com/user-attachments/assets/7cfb29d9-686e-4a9b-8446-39eff7eae274">
 
 Powtórzona sylaba "wa" po słowie "słowa", zauważone dn. 12.08.24 r.
 
+<br>
 
+#### "Więcej"
+<img width="400" alt="bugwiecej" src="https://github.com/user-attachments/assets/d0fd136c-b799-463a-9d8b-28ab049c4a52">
+
+Brak zaznaczenia pierwszej literze słowa "więcej", zauważone dn. 15.08.24 r.

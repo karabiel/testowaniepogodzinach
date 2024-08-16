@@ -299,3 +299,10 @@ Powtórzona sylaba "wa" po słowie "słowa", zauważone dn. 12.08.24 r.
 <img width="400" alt="bugwiecej" src="https://github.com/user-attachments/assets/d0fd136c-b799-463a-9d8b-28ab049c4a52">
 
 Brak zaznaczenia pierwszej literze słowa "więcej", zauważone dn. 15.08.24 r.
+
+<br>
+
+#### ")"
+<img width="600" alt="bugnawias" src="https://github.com/user-attachments/assets/78a233f8-cac7-4c2e-b194-5cb0c8b3d257">
+
+Brak nawiasu zamykającego, zauważone dn. 16.08.24 r.

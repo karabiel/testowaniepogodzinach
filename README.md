@@ -306,3 +306,10 @@ Brak zaznaczenia pierwszej literze słowa "więcej", zauważone dn. 15.08.24 r.
 <img width="600" alt="bugnawias" src="https://github.com/user-attachments/assets/78a233f8-cac7-4c2e-b194-5cb0c8b3d257">
 
 Brak nawiasu zamykającego, zauważone dn. 16.08.24 r.
+
+<br>
+
+#### "Zmienamy"
+<img width="200" alt="bugzmieniamy" src="https://github.com/user-attachments/assets/dfe346c0-7e82-4c8c-9f11-710da0abc879">
+
+Brak drugiej litery "i" w słowie "zmieniamy", zauważone dn. 17.08.24 r.

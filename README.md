@@ -320,3 +320,10 @@ Brak drugiej litery "i" w słowie "zmieniamy", zauważone dn. 17.08.24 r.
 <img width="400" alt="bugEilish" src="https://github.com/user-attachments/assets/71cd69ab-1b6d-4d54-a4fd-c56689085b3d">
 
 Błędnie napisane nazwisko piosenkarki Billie Eilish, zauważone dn. 20.08.24 r.
+
+<br>
+
+#### "Odnośnik"
+<img width="800" alt="bugodnosnik" src="https://github.com/user-attachments/assets/36993745-0f58-48de-a4e9-8b7ea0a4c3b9">
+
+Odnośnik do niepoprawnej lokalizacji - Gdańsk zamiast Wrocławia, zauważone dn. 28.08.24 r.

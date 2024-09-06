@@ -327,3 +327,18 @@ Błędnie napisane nazwisko piosenkarki Billie Eilish, zauważone dn. 20.08.24 r
 <img width="800" alt="bugodnosnik" src="https://github.com/user-attachments/assets/36993745-0f58-48de-a4e9-8b7ea0a4c3b9">
 
 Odnośnik do niepoprawnej lokalizacji - Gdańsk zamiast Wrocławia, zauważone dn. 28.08.24 r.
+
+<br>
+
+#### "P / PL"
+<img width="800" alt="bugPL" src="https://github.com/user-attachments/assets/2d26622f-deab-4786-a6fd-db7294708873">
+
+Zamienione miejscami fragmenty opisu zabawki w części w języku portugalskim (P) i polskim (PL), zauważone dn. 31.08.24 r.
+
+<br>
+
+#### "Ostrzezénie"
+<img width="150" alt="bugPL" src="https://github.com/user-attachments/assets/661d93d9-ba12-428c-98c3-6ec6c2b68e4b">
+
+Brak kropki w literze "ż" i nadmiarowa kreska nad literą "e", zauważone dn. 31.08.24 r.
+

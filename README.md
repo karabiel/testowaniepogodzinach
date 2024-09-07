@@ -338,7 +338,13 @@ Zamienione miejscami fragmenty opisu zabawki w części w języku portugalskim (
 <br>
 
 #### "Ostrzezénie"
-<img width="150" alt="bugPL" src="https://github.com/user-attachments/assets/661d93d9-ba12-428c-98c3-6ec6c2b68e4b">
+<img width="100" alt="bugPL" src="https://github.com/user-attachments/assets/661d93d9-ba12-428c-98c3-6ec6c2b68e4b">
 
 Brak kropki w literze "ż" i nadmiarowa kreska nad literą "e", zauważone dn. 31.08.24 r.
 
+<br>
+
+#### "Vikngowie"
+<img width="100" alt="bugVikingowie" src="https://github.com/user-attachments/assets/cd046595-5258-45c8-951d-f48ea1c7fc14">
+
+Brak drugiej litery "i" w słowie "Vikingowie", zauważone dn. 07.09.24 r.

@@ -345,6 +345,14 @@ Brak kropki w literze "ż" i nadmiarowa kreska nad literą "e", zauważone dn. 3
 <br>
 
 #### "Vikngowie"
-<img width="100" alt="bugVikingowie" src="https://github.com/user-attachments/assets/cd046595-5258-45c8-951d-f48ea1c7fc14">
+<img width="80" alt="bugVikingowie" src="https://github.com/user-attachments/assets/cd046595-5258-45c8-951d-f48ea1c7fc14">
 
 Brak drugiej litery "i" w słowie "Vikingowie", zauważone dn. 07.09.24 r.
+
+<br>
+
+#### "Ternie"
+<img width="280" alt="bugterenie" src="https://github.com/user-attachments/assets/c6229618-6832-4f12-ba6b-83087c1328dc">
+
+Brak drugiej litery "e" w słowie "terenie", zauważone dn. 18.09.24 r.
+

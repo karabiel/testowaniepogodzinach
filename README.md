@@ -356,3 +356,11 @@ Brak drugiej litery "i" w słowie "Vikingowie", zauważone dn. 07.09.24 r.
 
 Brak drugiej litery "e" w słowie "terenie", zauważone dn. 18.09.24 r.
 
+<br>
+
+#### "An"
+<img width="70" alt="bugna" src="https://github.com/user-attachments/assets/34b92bdb-734f-43a9-8eb5-6c76be824e93">
+
+Zamienione miejscami litery w przyimku "na", zauważone dn. 27.09.24 r.
+
+

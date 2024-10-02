@@ -363,4 +363,9 @@ Brak drugiej litery "e" w słowie "terenie", zauważone dn. 18.09.24 r.
 
 Zamienione miejscami litery w przyimku "na", zauważone dn. 27.09.24 r.
 
+<br>
 
+#### "Irracjonalnyi"
+<img width="250" alt="bugirracjonalny" src="https://github.com/user-attachments/assets/c71fee71-baf6-4d03-935f-79e414071c8f">
+
+Brak odstępu po słowie "irracjonalny", zauważone dn. 02.10.24 r.

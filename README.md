@@ -377,3 +377,9 @@ Brak odstępu po słowie "irracjonalny", zauważone dn. 02.10.24 r.
 
 Niepotrzebnie powiększona i podgrubiona ostatnia litera w słowie "usługi" oraz brak ostatniej litery w słowie "symulatora", zauważone dn. 05.10.24 r.
 
+<br>
+
+#### "Rozwiązywanie problemów, rozwiązywanie problemów"
+<img width="430" alt="bugrozwiazywanieproblemow" src="https://github.com/user-attachments/assets/1fe5016d-f638-40ea-8634-5c43a489f3eb">
+
+Powtórzone słowa "rozwiązywanie problemów", zauważone dn. 05.10.24 r.

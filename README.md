@@ -369,3 +369,11 @@ Zamienione miejscami litery w przyimku "na", zauważone dn. 27.09.24 r.
 <img width="250" alt="bugirracjonalny" src="https://github.com/user-attachments/assets/c71fee71-baf6-4d03-935f-79e414071c8f">
 
 Brak odstępu po słowie "irracjonalny", zauważone dn. 02.10.24 r.
+
+<br>
+
+#### "UsługI symulator"
+<img width="230" alt="buguslug" src="https://github.com/user-attachments/assets/67b32f02-e3f0-44cd-a533-e755a9cd9748">
+
+Niepotrzebnie powiększona i podgrubiona ostatnia litera w słowie "usługi" oraz brak ostatniej litery w słowie "symulatora", zauważone dn. 05.10.24 r.
+

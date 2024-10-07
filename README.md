@@ -383,3 +383,10 @@ Niepotrzebnie powiększona i podgrubiona ostatnia litera w słowie "usługi" ora
 <img width="430" alt="bugrozwiazywanieproblemow" src="https://github.com/user-attachments/assets/1fe5016d-f638-40ea-8634-5c43a489f3eb">
 
 Powtórzone słowa "rozwiązywanie problemów", zauważone dn. 05.10.24 r.
+
+<br>
+
+#### "Wyngarodzenia"
+<img width="400" alt="bugwynagrodzenia" src="https://github.com/user-attachments/assets/f049c5b0-54fc-4573-9c13-74a8096ee7b8">
+
+Zamienione miejscami litery "a" i "g" w słowie "wynagrodzenia", zauważone dn. 07.10.24 r.

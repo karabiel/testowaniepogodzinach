@@ -380,7 +380,7 @@ Niepotrzebnie powiększona i podgrubiona ostatnia litera w słowie "usługi" ora
 <br>
 
 #### "Rozwiązywanie problemów, rozwiązywanie problemów"
-<img width="430" alt="bugrozwiazywanieproblemow" src="https://github.com/user-attachments/assets/1fe5016d-f638-40ea-8634-5c43a489f3eb">
+<img width="450" alt="bugrozwiazywanieproblemow" src="https://github.com/user-attachments/assets/1fe5016d-f638-40ea-8634-5c43a489f3eb">
 
 Powtórzone słowa "rozwiązywanie problemów", zauważone dn. 05.10.24 r.
 
@@ -390,3 +390,10 @@ Powtórzone słowa "rozwiązywanie problemów", zauważone dn. 05.10.24 r.
 <img width="400" alt="bugwynagrodzenia" src="https://github.com/user-attachments/assets/f049c5b0-54fc-4573-9c13-74a8096ee7b8">
 
 Zamienione miejscami litery "a" i "g" w słowie "wynagrodzenia", zauważone dn. 07.10.24 r.
+
+<br>
+
+#### "Zebieg"
+<img width="280" alt="bugzabieg" src="https://github.com/user-attachments/assets/9534fa8a-c049-45c6-b186-910114a2ba3c">
+
+Słowo "zabieg" zapisane z literówką - jest litera "e" zamiasat "a", zauważone dn. 10.10.24 r.

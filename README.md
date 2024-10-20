@@ -397,3 +397,10 @@ Zamienione miejscami litery "a" i "g" w słowie "wynagrodzenia", zauważone dn. 
 <img width="280" alt="bugzabieg" src="https://github.com/user-attachments/assets/9534fa8a-c049-45c6-b186-910114a2ba3c">
 
 Słowo "zabieg" zapisane z literówką - jest litera "e" zamiasat "a", zauważone dn. 10.10.24 r.
+
+<br>
+
+#### "Lista rozwijana"
+<img width="500" alt="buglistarozwijana" src="https://github.com/user-attachments/assets/6d0a7889-a61b-4621-8827-fd1cce90df8f">
+
+W momencie próby formatowania stylu akapitu rozwijają się listy i każda kolejna powinna być widoczna nad poprzednią, ale z ostatnią ("Opcje") tak nie jest, bo jest zasłonięta przez poprzednią, zauważone dn. 20.10.24 r.

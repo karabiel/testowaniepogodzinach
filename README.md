@@ -404,3 +404,10 @@ Słowo "zabieg" zapisane z literówką - jest litera "e" zamiasat "a", zauważon
 <img width="500" alt="buglistarozwijana" src="https://github.com/user-attachments/assets/6d0a7889-a61b-4621-8827-fd1cce90df8f">
 
 W momencie próby formatowania stylu akapitu rozwijają się listy i każda kolejna powinna być widoczna nad poprzednią, ale z ostatnią ("Opcje") tak nie jest, bo jest zasłonięta przez poprzednią, zauważone dn. 20.10.24 r.
+
+<br>
+
+#### "Nagrodaa"
+<img width="280" alt="bugnagroda" src="https://github.com/user-attachments/assets/5207c8bd-f3ef-4fc0-b778-b336f5053eed">
+
+Nadmiarowa litera "a" na końcu słowa "nagroda", zauważone dn. 07.11.24 r.

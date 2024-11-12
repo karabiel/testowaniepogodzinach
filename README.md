@@ -411,3 +411,10 @@ W momencie próby formatowania stylu akapitu rozwijają się listy i każda kole
 <img width="280" alt="bugnagroda" src="https://github.com/user-attachments/assets/5207c8bd-f3ef-4fc0-b778-b336f5053eed">
 
 Nadmiarowa litera "a" na końcu słowa "nagroda", zauważone dn. 07.11.24 r.
+
+<br>
+
+#### "Przeniesione"
+<img width="350" alt="bugnagroda" src="https://github.com/user-attachments/assets/00c2c1ed-ef24-44fb-a7c2-cac0fc1cecc8">
+
+Błędna końcówka w słowie "przeniesione" - litera "e" zamiast "y", zauważone dn. 12.11.24 r.

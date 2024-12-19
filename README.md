@@ -1,5 +1,12 @@
 # Testowanie po godzinach
 
+#### "Płtyka"
+<img width="150" alt="bugpłtyka" src="https://github.com/user-attachments/assets/0285cffa-11a3-4baa-8b83-66d7a9df70fd">
+
+Zamienione miejscami litery "y" i "t" w słowie "płytka", zauważone dn. 01.03.22 r.
+
+<br>
+
 #### "Negocacji"
 <img width="230" alt="bugnegocjacji" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/f7fd960a-b1d1-4080-bd9a-684cdb641f2a">
 

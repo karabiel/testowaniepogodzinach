@@ -429,16 +429,9 @@ Nadmiarowa litera "a" na końcu słowa "nagroda", zauważone dn. 07.11.24 r.
 <br>
 
 #### "Przeniesione"
-<img width="350" alt="bugnagroda" src="https://github.com/user-attachments/assets/00c2c1ed-ef24-44fb-a7c2-cac0fc1cecc8">
+<img width="350" alt="bugprzeniesione" src="https://github.com/user-attachments/assets/00c2c1ed-ef24-44fb-a7c2-cac0fc1cecc8">
 
 Błędna końcówka w słowie "przeniesione" - litera "e" zamiast "y", zauważone dn. 12.11.24 r.
-
-<br>
-
-#### "W przypa dku"
-<img width="150" alt="bugprzypadku" src="https://github.com/user-attachments/assets/7009107c-8d65-42ea-a6ea-574be9abfe17">
-
-Niepotrzebna spacja w słowie "przypadku" - zauważone dn. 14.12.24 r.
 
 <br>
 
@@ -453,6 +446,13 @@ Niepotrzebna spacja w słowie "przypadku" - zauważone dn. 14.12.24 r.
 <img width="550" alt="bugznaczenie" src="https://github.com/user-attachments/assets/f22a131d-c19f-4b2b-af08-9ee698dda1ff">
 
 Brak wyświetlonego znaczenia zdania (na trzech przykładach) - zauważone dn. 16.12.24 r.
+
+<br>
+
+#### "Powtórzenia"
+<img width="450" alt="bugpowtorzenia" src="https://github.com/user-attachments/assets/a23dc7d7-d9ca-4b6b-8727-f8b65d20c013">
+
+Zestawione ze sobą w nawiasach te same rzeczy, a opisane jako błędne z poprawnymi  - zauważone dn. 05.01.25 r.
 
 <br>
 

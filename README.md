@@ -449,5 +449,14 @@ Niepotrzebna spacja w słowie "przypadku" - zauważone dn. 14.12.24 r.
 
 <br>
 
+#### "Bez znaczenia"
+<img width="550" alt="bugznaczenie" src="https://github.com/user-attachments/assets/f22a131d-c19f-4b2b-af08-9ee698dda1ff">
+
+Brak wyświetlonego znaczenia zdania (na trzech przykładach) - zauważone dn. 16.12.24 r.
+
+<br>
+
+---
+
 Jesteś na samym dole strony. Kliknij tę strzałkę to skoczysz na górę strony:
 ## [⬆️](#Testowanie_po_godzinach)<a name="Testowanie_po_godzinach"></a> 

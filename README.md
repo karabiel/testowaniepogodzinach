@@ -407,6 +407,13 @@ Zamienione miejscami litery "a" i "g" w słowie "wynagrodzenia", zauważone dn. 
 
 <br>
 
+#### "Zwier-zęciu i zaba-wka"
+<img width="400" alt="bugzwierzeciu" src="https://github.com/user-attachments/assets/13fe8e8d-d8bc-425c-81ce-c56ecd94c642">
+
+Niepoprawny podział słów "zwierzęciu" oraz "zabawka", zauważone dn. 09.10.24 r.
+
+<br>
+
 #### "Zebieg"
 <img width="280" alt="bugzabieg" src="https://github.com/user-attachments/assets/9534fa8a-c049-45c6-b186-910114a2ba3c">
 

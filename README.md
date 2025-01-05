@@ -49,7 +49,7 @@ Brak litery "e" w słowie "należy", zauważone dn. 25.01.24 r.
 
 <br>
 
-#### "Lokowka do wlosow"
+#### "Lokowka do wlosow" i "ońcówka"
 <img width="300" alt="buglokówka" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/28569959-c756-40a5-bc80-54ad681efc03">
 
 Brak polskich znaków w nazwie produktu - "lokówka do włosów" + brak pierwszej litery w słowie "końcówka", zauważone dn. 02.02.24 r.
@@ -218,7 +218,7 @@ Niepoprawnie przetłumaczona nazwa produktu - powinno być np. "rozciągliwa baw
 
 <br>
 
-#### "Hormo content_id: nalnej"
+#### "Hormo content_id:124688822 nalnej"
 <img width="350" alt="bughormonalnej" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/f868c383-3510-4b06-a7c8-3d6134df2476">
 
 Wtrącenie w słowie "hormonalnej", zauważone dn. 28.05.24 r.
@@ -337,7 +337,7 @@ Odnośnik do niepoprawnej lokalizacji - Gdańsk zamiast Wrocławia, zauważone d
 
 <br>
 
-#### "P / PL"
+#### "(P) / (PL)"
 <img width="800" alt="bugPL" src="https://github.com/user-attachments/assets/2d26622f-deab-4786-a6fd-db7294708873">
 
 Zamienione miejscami fragmenty opisu zabawki w części w języku portugalskim (P) i polskim (PL), zauważone dn. 31.08.24 r.
@@ -407,7 +407,7 @@ Zamienione miejscami litery "a" i "g" w słowie "wynagrodzenia", zauważone dn. 
 
 <br>
 
-#### "Zwier-zęciu i zaba-wka"
+#### "Zwier-zęciu" i "zaba-wka"
 <img width="400" alt="bugzwierzeciu" src="https://github.com/user-attachments/assets/13fe8e8d-d8bc-425c-81ce-c56ecd94c642">
 
 Niepoprawny podział słów "zwierzęciu" oraz "zabawka", zauważone dn. 09.10.24 r.
@@ -439,6 +439,13 @@ Nadmiarowa litera "a" na końcu słowa "nagroda", zauważone dn. 07.11.24 r.
 <img width="350" alt="bugprzeniesione" src="https://github.com/user-attachments/assets/00c2c1ed-ef24-44fb-a7c2-cac0fc1cecc8">
 
 Błędna końcówka w słowie "przeniesione" - litera "e" zamiast "y", zauważone dn. 12.11.24 r.
+
+<br>
+
+#### "Hairs"
+<img width="100" alt="bughair" src="https://github.com/user-attachments/assets/5e426ca3-1f7e-42e3-8aa9-7724bbc1997e">
+
+Nadmiarowa litera "s" w słowie "hair", zauważone dn. 12.11.24 r.
 
 <br>
 

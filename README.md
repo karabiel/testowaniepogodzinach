@@ -1,4 +1,4 @@
-# Testowanie po godzinach
+# Testowanie_po_godzinach
 
 #### "Płtyka"
 <img width="150" alt="bugpłtyka" src="https://github.com/user-attachments/assets/0285cffa-11a3-4baa-8b83-66d7a9df70fd">
@@ -365,6 +365,13 @@ Brak drugiej litery "e" w słowie "terenie", zauważone dn. 18.09.24 r.
 
 <br>
 
+#### "Grudzień we wrześniu"
+<img width="330" alt="buggrudzien" src="https://github.com/user-attachments/assets/943641cb-6522-4d42-ae7e-fedb09007545">
+
+Informacja o zdobyciu odznaki grudniowej, gdzie w rzeczywistości była to odznaka wrześniowa, zauważone dn. 24.09.24 r.
+
+<br>
+
 #### "An"
 <img width="70" alt="bugna" src="https://github.com/user-attachments/assets/34b92bdb-734f-43a9-8eb5-6c76be824e93">
 
@@ -432,3 +439,15 @@ Błędna końcówka w słowie "przeniesione" - litera "e" zamiast "y", zauważon
 <img width="150" alt="bugprzypadku" src="https://github.com/user-attachments/assets/7009107c-8d65-42ea-a6ea-574be9abfe17">
 
 Niepotrzebna spacja w słowie "przypadku" - zauważone dn. 14.12.24 r.
+
+<br>
+
+#### "W przypa dku"
+<img width="150" alt="bugprzypadku" src="https://github.com/user-attachments/assets/7009107c-8d65-42ea-a6ea-574be9abfe17">
+
+Niepotrzebna spacja w słowie "przypadku" - zauważone dn. 14.12.24 r.
+
+<br>
+
+Jesteś na samym dole strony. Kliknij tę strzałkę to skoczysz na górę strony:
+## [⬆️](#Testowanie_po_godzinach)<a name="Testowanie_po_godzinach"></a> 

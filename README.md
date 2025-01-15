@@ -470,6 +470,12 @@ Zestawione ze sobą w nawiasach te same rzeczy, a opisane jako błędne z popraw
 
 <br>
 
+#### "Gkładka"
+<img width="100" alt="buggladka" src="https://github.com/user-attachments/assets/c650ec8c-6506-4530-839f-a6952874a07c">
+
+Nadmiarowa litera "k" w słowie "gładka" - zauważone dn. 15.01.25 r.
+
+<br>
 ---
 
 Jesteś na samym dole strony. Kliknij tę strzałkę to skoczysz na górę strony:

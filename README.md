@@ -476,6 +476,13 @@ Zestawione ze sobą w nawiasach te same rzeczy, a opisane jako błędne z popraw
 Nadmiarowa litera "k" w słowie "gładka" - zauważone dn. 15.01.25 r.
 
 <br>
+
+#### "Wszytskie"
+<img width="100" alt="bugwszystkie" src="https://github.com/user-attachments/assets/b14f0838-50fa-408b-83af-970279305637">
+
+Zamienione miejscami litery "s" i "t" w słowie "wszystkie" - zauważone dn. 23.01.25 r.
+
+<br>
 ---
 
 Jesteś na samym dole strony. Kliknij tę strzałkę to skoczysz na górę strony:

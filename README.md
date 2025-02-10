@@ -483,6 +483,18 @@ Nadmiarowa litera "k" w słowie "gładka" - zauważone dn. 15.01.25 r.
 Zamienione miejscami litery "s" i "t" w słowie "wszystkie" - zauważone dn. 23.01.25 r.
 
 <br>
+
+🚧
+
+<br>
+
+#### "Brak specjalistów"
+<img width="500" alt="bugspecjalisci" src="https://github.com/user-attachments/assets/9795a292-39e6-491c-852e-e3733b7c3996">
+
+"Imię i nazwisko" i "specjalizacja" zamiast rzeczywistych informacji w agendzie - zauważone dn. 10.02.25 r.
+
+<br>
+
 ---
 
 Jesteś na samym dole strony. Kliknij tę strzałkę to skoczysz na górę strony:

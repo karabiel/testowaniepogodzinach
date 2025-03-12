@@ -268,9 +268,15 @@ Brak spacji po kropce i nadprogramowa litera "n" w przyimku "na" - w dodatku zap
 <br>
 
 #### "Ofereto.pl"
+##### #1
 <img width="300" alt="bugoferteo" src="https://github.com/karabiel/testowaniepogodzinach/assets/110050632/4ca51ae4-a40a-43fa-bb03-974b1b65fc31">
 
-Literówka w nazwie "Oferteo" - zamienione miejscami litery "t" i "e", zauważone dn. 25.06.24 r.
+<br>
+
+##### #2
+<img width="250" alt="bugoferteo" src="https://github.com/user-attachments/assets/907f7841-ce5e-4d4f-8d67-b5b711dc1775">
+
+Literówka w nazwie "Oferteo" (w dwóch miejscach) - zamienione miejscami litery "t" i "e", zauważone dn. 25.06.24 r. i 12.03.25 r.
 
 <br>
 

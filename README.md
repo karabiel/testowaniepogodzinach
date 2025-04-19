@@ -2,6 +2,13 @@
 
 <br>
 
+#### "Pobeirać"
+<img width="500" alt="bugpobeirac" src="https://github.com/user-attachments/assets/e2106680-1ffe-4bad-a4e8-718bad85af8c">
+
+W słowie "pobierać" zamienione miejscami litery "i" i "e" - zauważone dn. 19.04.25 r.
+
+<br>
+
 #### "Brak specjalistów"
 <img width="500" alt="bugspecjalisci" src="https://github.com/user-attachments/assets/9795a292-39e6-491c-852e-e3733b7c3996">
 

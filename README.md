@@ -9,6 +9,13 @@ W słowie "pobierać" zamienione miejscami litery "i" i "e" - zauważone dn. 19.
 
 <br>
 
+#### "# zamiast odnośnika"
+<img width="900" alt="bugprodukty" src="https://github.com/user-attachments/assets/6a5a35d8-e07b-4ce9-91be-7d702b03ccfa">
+
+Guzik "Zobacz produkty" bez podpiętego odpowiedniego odnośnika (jest nim #) - zauważone dn. 13.04.25 r.
+
+<br>
+
 #### "Pusty odnośnik"
 <img width="900" alt="bugallegro" src="https://github.com/user-attachments/assets/8d60e5c5-21a0-404a-bee1-faaaf0c8444c">
 

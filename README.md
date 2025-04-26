@@ -9,6 +9,13 @@ W słowie "pobierać" zamienione miejscami litery "i" i "e" - zauważone dn. 19.
 
 <br>
 
+#### "Pusty odnośnik"
+<img width="900" alt="bugallegro" src="https://github.com/user-attachments/assets/8d60e5c5-21a0-404a-bee1-faaaf0c8444c">
+
+Guzik "[Znajdź nas na:] allegro" bez podpiętego odnośnika - zauważone dn. 13.04.25 r.
+
+<br>
+
 #### "Brak specjalistów"
 <img width="500" alt="bugspecjalisci" src="https://github.com/user-attachments/assets/9795a292-39e6-491c-852e-e3733b7c3996">
 
